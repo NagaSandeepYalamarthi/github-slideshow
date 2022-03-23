@@ -1,11 +1,11 @@
-3.	---
-4.	
-5.	layout: slide
-6.	
-7.	title: "Keep learning"
-8.	
-9.	---
-10.	
-11.	Your text
-12.	
+	---
+	
+	layout: slide
+	
+	title: "Keep learning"
+	
+	---
+	
+	Your text
+	
 Use the left arrow to go back!
